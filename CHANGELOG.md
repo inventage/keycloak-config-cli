@@ -6,6 +6,9 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 ## [Unreleased]
 
+### Fixed
+- Consider all authentication subflows during updates.
+
 ## [5.6.1] - 2023-03-05
 
 ## [5.6.0] - 2023-03-05
